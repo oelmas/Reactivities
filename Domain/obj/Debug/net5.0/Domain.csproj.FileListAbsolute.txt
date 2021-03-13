@@ -1,0 +1,12 @@
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/bin/Debug/net5.0/Domain.deps.json
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/bin/Debug/net5.0/Domain.dll
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/bin/Debug/net5.0/ref/Domain.dll
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/bin/Debug/net5.0/Domain.pdb
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb

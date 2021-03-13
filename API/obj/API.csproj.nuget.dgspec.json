@@ -1,0 +1,252 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/API/API.csproj": {}
+  },
+  "projects": {
+    "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/API/API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/API/API.csproj",
+        "projectName": "API",
+        "projectPath": "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/API/API.csproj",
+        "packagesPath": "/home/oelmas/.nuget/packages/",
+        "outputPath": "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/oelmas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Application/Application.csproj": {
+                "projectPath": "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Application/Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Application/Application.csproj",
+        "packagesPath": "/home/oelmas/.nuget/packages/",
+        "outputPath": "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/oelmas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/Domain.csproj"
+              },
+              "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/Persistence.csproj": {
+                "projectPath": "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/Domain.csproj",
+        "packagesPath": "/home/oelmas/.nuget/packages/",
+        "outputPath": "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/oelmas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/Persistence.csproj",
+        "packagesPath": "/home/oelmas/.nuget/packages/",
+        "outputPath": "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/oelmas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

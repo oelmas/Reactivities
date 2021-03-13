@@ -1,0 +1,15 @@
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/bin/Debug/net5.0/Persistence.dll
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/bin/Debug/net5.0/Persistence.pdb
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/bin/Debug/net5.0/Domain.dll
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/bin/Debug/net5.0/Domain.pdb
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/obj/Debug/net5.0/Persistence.dll
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/home/oelmas/Projects/Web/DotNetCoreAndReact/Reactivities/Persistence/obj/Debug/net5.0/Persistence.pdb
