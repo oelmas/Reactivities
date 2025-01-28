@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SFGstCP7R3I=",
+  "success": true,
+  "projectFilePath": "/home/oelmas/Projects/DotnetReact/Reactivities/API/API.csproj",
+  "expectedPackageFiles": [
+    "/home/oelmas/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/home/oelmas/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
