@@ -10,5 +10,11 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
-**/obj/
-**/bin/
+./API/obj
+./API/bin
+./Application/obj
+./Application/bin
+./Domain/obj
+./Domain/bin
+./Persistence/obj
+./Persistence/bin
