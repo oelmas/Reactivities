@@ -482,3 +482,15 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+API/obj/Debug/net9.0/API.csproj.AssemblyReference.cache
+
+API/obj/Debug/net9.0/API.AssemblyInfo.cs
+
+API/obj/Debug/net9.0/
+
+Persistence/obj/Debug/net9.0/
+
+Domain/obj/Debug/net9.0/
+
+*.json
