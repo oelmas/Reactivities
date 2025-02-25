@@ -494,3 +494,12 @@ Persistence/obj/Debug/net9.0/
 Domain/obj/Debug/net9.0/
 
 *.json
+API/obj/
+
+Domain/obj/
+
+Persistence/obj/
+
+API/obj/
+
+
