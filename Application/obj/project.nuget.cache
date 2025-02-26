@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "eSsbTC9e4Z0=",
+  "dgSpecHash": "C5VXRedZ9BA=",
   "success": true,
   "projectFilePath": "/home/oelmas/Projects/DotnetReact/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/home/oelmas/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
     "/home/oelmas/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/home/oelmas/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
+    "/home/oelmas/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/home/oelmas/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/home/oelmas/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/home/oelmas/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/home/oelmas/.nuget/packages/microsoft.data.sqlclient/5.1.6/microsoft.data.sqlclient.5.1.6.nupkg.sha512",
