@@ -1,7 +1,8 @@
 import axios from 'axios';
 import './App.css'
-import { useEffect, useState } from 'react';
-import { Header, List, ListContent, ListItem } from 'semantic-ui-react'
+import { useEffect, useState} from 'react';
+
+import {List, ListItem, ListItemText, Typography} from "@mui/material";
 
 function App() {
   const [activities, setActivities] = useState([]);
@@ -12,16 +13,19 @@ function App() {
     })
   }, []);
 
-  return (
-    <div>
-      <Header as='h2' content='Reactivities' textAlign='center'/>
-      <List>
-        {activities.map((activity: any) => (
-          <ListContent key={activity.id}>{activity.title}</ListContent>
-        ))}
-      </List>
-    </div>
+  return(
+      <>
+        <Typography variant='h3'>Reactivities</Typography>
+        <List>
+          {activities.map((activity: never) => <ListItem key={activity.id}>
+            <ListItemText>
+              {activity.title}
+            </ListItemText>
+          </ListItem>)}
+        </List>
+      </>
   )
+
 }
 
 export default App
